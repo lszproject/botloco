@@ -115,6 +115,6 @@
     }));
 
     // Start the bot and extend it when it has loaded.
-    $.getScript("https://raw.github.com/CloretoSiegh/botloco/master/extension.js", extend);
+    $.getScript("https://rawgit.com/CloretoSiegh/botloco/master/extension.js", extend);
 
 }).call(this);
