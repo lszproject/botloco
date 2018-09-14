@@ -249,7 +249,7 @@
         status: false,
         name: 'CuckManlet',
         loggedInID: null,
-        scriptLink: 'https://rawgit.com/basicBot/source/master/basicBot.js',
+        scriptLink: 'https://rawgit.com/CloretoSiegh/botloco/master/basicBot.js',
         cmdLink: 'http://git.io/245Ppg',
         chatLink: 'https://rawgit.com/basicBot/source/master/lang/en.json',
         chat: null,
