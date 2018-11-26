@@ -203,7 +203,7 @@
     "website": "\/me Please visit our website: %%LINK%%",
     "youtube": "\/me [%%NAME%%] Subscribe to us on youtube: %%LINK%%",
     "songstatistics": "\/me %%ARTIST%% - %%TITLE%%: %%WOOTS%%W\/%%GRABS%%G\/%%MEHS%%M.",
-    "thorNotClose": "\/me @%%NAME%%, you're not worthy of getting close to the hammer!",
+    "thorNotClose": "\/me @%%NAME%%, você não pode sequer enconstar no martelo.",
     "thorcd": "\/me @%%NAME%% you can try to lift the hammer in %%TIME%% minutes.",
     "thorWorthy": "\/me @%%NAME%% :hammer: você levantou o martelo, parabéns filho da puta.",
     "thorNotWorthy": "\/me @%%NAME%% você não é digno do martelo, cuck."
